@@ -1,4 +1,4 @@
-# Strategic Equity Research & Valuation: Tata Power (TATAPOWER.NS)
+# Strategic Equity Research & Valuation: Tata Power
 
 ### **Investment Verdict: BUY on Dips | SOTP Target: ₹485 | Risk: High Sensitivity**
 
