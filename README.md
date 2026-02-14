@@ -33,7 +33,7 @@ The core analysis is powered by the `project.py` module, which automates:
 
 | Deleveraging Trajectory | Sum-of-the-Parts Valuation Breakdown |
 | :---: | :---: |
-| ![Deleveraging Chart](Deleveraging.png) | ![Sum-of-the-Parts Valuation Breakdown](SOTP Analysis.png) |
+| ![Deleveraging Chart](Deleveraging.png) | ![Sum-of-the-Parts Valuation Breakdown](SOTPAnalysis.png) |
 
 ## 🚀 How to Run the Model
 1.  **Clone the Repository:**
