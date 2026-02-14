@@ -46,7 +46,7 @@ The core analysis is powered by the `project.py` module, which automates:
     ```
 3.  **Run the Analysis:**
     ```bash
-    python analysis_script.py
+    python project.py
     ```
 
 
