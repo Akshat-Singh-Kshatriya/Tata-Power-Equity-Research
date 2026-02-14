@@ -1,4 +1,4 @@
-# Strategic Equity Research & Valuation: Tata Power
+# Strategic Equity Research & Valuation: Tata Power 
 
 ### **Investment Verdict: BUY on Dips | SOTP Target: ₹485 | Risk: High Sensitivity**
 
@@ -21,7 +21,7 @@ This repository contains a quantitative financial analysis and equity valuation 
 * **Stress Test:** The Discounted Cash Flow (DCF) model reveals high sensitivity to the Cost of Capital. In a scenario where **WACC spikes to 13%** (due to interest rate hikes) and **Terminal Growth drops to 3%**, the intrinsic value erodes significantly. This highlights the high "Duration Risk" inherent in long-gestation power projects.
 
 ## 🛠️ Technical Implementation
-The core analysis is powered by the `analysis_script.py` module, which automates:
+The core analysis is powered by the `project.py` module, which automates:
 * **Data Extraction:** Fetches last 4 years of granular financial statements via `yfinance` API.
 * **Financial Modeling:**
     * **Deleveraging Trend:** Visualizes Revenue Growth vs. Net Debt/EBITDA trajectory.
@@ -46,6 +46,8 @@ The core analysis is powered by the `analysis_script.py` module, which automates
     ```
 3.  **Run the Analysis:**
     ```bash
-    python project.py
+    python analysis_script.py
     ```
+
+
 
